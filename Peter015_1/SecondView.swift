@@ -8,9 +8,7 @@
 import SwiftUI
 
 struct SecondView: View {
-    
-//    @Binding var image: String
-    
+
     let player: PlayerModel
     
     var body: some View {
